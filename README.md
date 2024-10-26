@@ -46,8 +46,8 @@ This project provides an interactive dashboard for analyzing flight data using a
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/uditb15/flights_app.git
+   cd flights_app
    ```
 
 2. **Install Dependencies**:
